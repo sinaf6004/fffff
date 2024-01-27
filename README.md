@@ -1,0 +1,1 @@
+the main purpose of this repository is to review the things that we have learned in our workshop and int this repository I have used from git, latex and the questions about linux have been done with ubuntu.
